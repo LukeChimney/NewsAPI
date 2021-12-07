@@ -1,0 +1,17 @@
+*{
+    margin: 20px;
+    padding: 0;
+    max-width: 1440px;
+}
+
+body{
+    background-color: lightgrey;
+}
+section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img{
+    width: 300px;
+}
